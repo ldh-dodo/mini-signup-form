@@ -16,7 +16,7 @@ Vanilla JS 버전 사전 과제 작성을 위한 보일러 플레이트 코드�
 2. 아래 명령어로 의존성 라이브러리들을 설치해주세요
 
 ```bash
-npm install
+npm instal
 # 또는
 yarn install
 ```
